@@ -1,2 +1,2 @@
 # budowaDzidy
-program stworzony dla osób których męczy recydowanie budowy dzidy
+program stworzony dla osób których męczy recytowanie budowy dzidy z pamięci i chcieliby wypisać ją na ekran
